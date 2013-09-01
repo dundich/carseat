@@ -12,3 +12,5 @@ git commit -m 'master'<br>
 git push heroku<br>
 
 !
+git commit -a -m 'master' 
+git push origin master 
