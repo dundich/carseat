@@ -1,1 +1,3 @@
 {"ts":1378067713219,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"carseat\n=======\n\nshop\n"]],"start1":0,"start2":0,"length1":0,"length2":22}]],"length":22}
+{"contributors":[],"silentsave":false,"ts":1378068105539,"patch":[[{"diffs":[[0,"=\n\nshop\n"],[1,"\n<br>\ngit init<br>\ngit add .<br>\ngit commit -m 'master'<br>\ngit push heroku<br>\n"]],"start1":14,"start2":14,"length1":8,"length2":88}]],"length":102,"saved":false}
+{"ts":1378068139766,"patch":[[{"diffs":[[0," heroku<br>\n"],[1,"\n!\n"]],"start1":90,"start2":90,"length1":12,"length2":15}]],"length":105,"saved":false}

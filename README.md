@@ -3,8 +3,10 @@ carseat
 
 shop
 
+<br>
+git init<br>
+git add .<br>
+git commit -m 'master'<br>
+git push heroku<br>
 
-git init
-git add .
-git commit -m 'master'
-git push heroku
+!
